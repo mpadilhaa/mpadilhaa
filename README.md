@@ -1,8 +1,10 @@
 ## Olá! Eu sou o Matheus Padilha 👋
 
+<br>
+<br>
 ##### Tenho 28 anos, gosto muito de codar, descobrir como realmente funcionam os sistemas e os processos do que utilizamos no nosso dia a dia. 
 
-##### Sou estudante de Analise e desenvolvimento de sistemas pela faculdade Unip.Meu foco no momento é o desenvolvimento front-end e estou em busca da minha primeira oportunidade na aréa.<br>
+##### Sou estudante de Analise e desenvolvimento de sistemas pela faculdade Unip.Meu foco no momento é o desenvolvimento front-end e estou em busca da minha primeira oportunidade na aréa.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mpadillhaa/)[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007733476619)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-padilha-07a098273/)
