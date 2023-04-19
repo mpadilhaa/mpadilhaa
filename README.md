@@ -3,7 +3,6 @@
 <br/>
 
 #### Tenho 28 anos, gosto muito de codar, descobrir como realmente funcionam os sistemas e os processos do que utilizamos no nosso dia a dia. 
-
 ###### Sou estudante de Analise e desenvolvimento de sistemas pela faculdade Unip.Meu foco no momento é o desenvolvimento front-end e estou em busca da minha primeira oportunidade na aréa.
 <br/>
 
