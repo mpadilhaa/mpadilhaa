@@ -28,4 +28,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpadilhaa&layout=compact&theme=react)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mpadilhaa&repo=github-readme-stats&theme=react)](https://github.com/mpadilhaa/github-readme-stats)
+
